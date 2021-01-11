@@ -5,6 +5,6 @@ The c program immplements a simple shell which supports & , | , !! and > operato
 The inputs with their corresponding outputs is shown below.
 <object data="./sample_outputs.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="./sample_outputs.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./sample_outputs.pdf">Download PDF</a>.</p>
     </embed>
 </object>
