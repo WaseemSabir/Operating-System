@@ -1,2 +1,6 @@
-# Operating-System
- &emsp;&emsp; [Simple Shell](/README.md "Simple Shell Details")
+# Operating-System 
+<ol> 
+ <li> 
+  <a href="./README.md">Simple Shell</a>
+ </li>
+</ol>
