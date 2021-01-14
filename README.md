@@ -1,2 +1,2 @@
 # Operating-System
- &emsp; Shell 
+ &emsp;&emsp; ![Simple Shell]("./Simple Shell/README.md" Details)
